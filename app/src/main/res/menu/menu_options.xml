@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/googleMaps"
+        app:showAsAction="never"
+        android:title="GoogleMaps" />
+
+    <item
+        android:id="@+id/googlePlaces"
+        app:showAsAction="never"
+        android:title="Google Places" />
+
+    <item
+        android:id="@+id/email"
+        app:showAsAction="never"
+        android:title="Email" />
+
+    <item
+        android:id="@+id/about"
+        app:showAsAction="never"
+        android:title="About" />
+</menu>
