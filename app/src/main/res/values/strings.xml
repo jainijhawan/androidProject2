@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="saved_latitude">Saved_latitude</string>
+    <string name="saved_longitude">Saved_longitude</string>
+    <string name="saved_address">Saved_address</string>
+    <string name="api_key">AIzaSyAtyZ_Fq5FzBTdspA5xWeg-TbuCr_03Sms</string>
+    <string name="about_title">The app shows the current location, near by places, has email option and about page</string>
+    <string name="about_subtitle">App contains following pages : </string>
+    <string name="about_maps">1. The maps fragment would allow you to open the google maps fragment with a marker with the address and latitude longitude and zoomed into your current location.</string>
+    <string name="about_places">2. Shows list of Google Places found near your current location. </string>
+    <string name="about_email">3. Send email to any email address with  prepopulated with the current location and address</string>
+    <string name="about_page"> 4. About page</string>
+    <string name="students_involved">Students involved are :</string>
+    <string name="jai_nijhawan">Jai Nijhawan 1155174</string>
+    <string name="nearby_places_are">Nearby Places are :</string>
+</resources>
